@@ -1,0 +1,16 @@
+{
+  "name": "BTS to KML Converter",
+  "short_name": "BTS→KML",
+  "description": "Chuyển Excel/CSV trạm BTS sang KML, vẽ sector theo búp sóng thật, tô màu theo công nghệ. Chạy offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1116",
+  "theme_color": "#0e1116",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
